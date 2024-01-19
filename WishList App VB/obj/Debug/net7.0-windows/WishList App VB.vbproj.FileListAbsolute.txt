@@ -1,0 +1,28 @@
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.vbproj.AssemblyReference.cache
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.UC_CustomWish.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.UC_Home.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.UC_Profile.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.UC_WishList.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.vbproj.GenerateResource.cache
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.AssemblyInfoInputs.cache
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.AssemblyInfo.vb
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.vbproj.CoreCompileInputs.cache
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.Login.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.Signup.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\WishList App VB.exe
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\WishList App VB.deps.json
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\WishList App VB.runtimeconfig.json
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\WishList App VB.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\WishList App VB.pdb
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.vbproj.CopyComplete
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\refint\WishList App VB.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.pdb
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList App VB.genruntimeconfig.cache
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\ref\WishList App VB.dll
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.Form1.resources
+C:\Users\apaws\source\repos\WishList App VB\WishList App VB\obj\Debug\net7.0-windows\WishList_App_VB.Resources.resources

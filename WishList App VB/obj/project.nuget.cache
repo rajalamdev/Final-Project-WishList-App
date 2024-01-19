@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaSMA1rTTysiZnhVjTraLOr0jQo+1U3j/MyDJQ8LBy0Ya6A1iZGEnZpFK6XF/4pWyFi+G5mk0zTfYTTZpdHXQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apaws\\source\\repos\\WishList App VB\\WishList App VB\\WishList App VB.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apaws\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\apaws\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\apaws\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
